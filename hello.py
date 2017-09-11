@@ -1,5 +1,3 @@
-def greeting(msg):
-    print(msg)
+import helper as f1
 
-if __name__ == '__main__':
-    greeting("hello")
+f1.greeting("hello")
